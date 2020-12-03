@@ -76,7 +76,6 @@ def job():
 schedule.every().day.at("09:24").do(job)
 schedule.every().day.at("11:24").do(job)
 schedule.every().day.at("13:54").do(job)
-schedule.every().day.at("14:31").do(job)
 
 # you can specific day.
 # schedule.every().monday.at("14:44").do(job)
