@@ -26,4 +26,4 @@ Get the channel link:
 
 #### If you want to schedule your meet, then run : ```pythonw schedule_join_meet.py``` You can close the terminal after typing this command and do your work. This will let the script to run in the background.
 
-#### If you want to Direct join, then run: ```python join_meet.py```
+#### If you want to Direct join, then run : ```python join_meet.py```
