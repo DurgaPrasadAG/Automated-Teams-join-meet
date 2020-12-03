@@ -4,6 +4,9 @@
 ***[Selenium Module](https://pypi.org/project/selenium/)***
 ```pip install selenium```
 
+***[Schedule Module](https://pypi.org/project/schedule/)***
+```pip install schedule``` (only for schedule_join_meet.py file)
+
 ***[Chrome webdriver](https://chromedriver.chromium.org/downloads)*** Download the exact version of ChromeDriver which matches your chrome browser.
 
 Paste chromedriver.exe in : ```C:\webdriver\bin\``` & set ```C:\webdriver\bin``` path in Environmental Variables.
